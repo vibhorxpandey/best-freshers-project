@@ -1,0 +1,37 @@
+# Medium — 33 Projects
+
+Real apps with persistence, APIs, or basic ML. Goal: learn how pieces (frontend, backend, DB, auth) fit together.
+
+1. **Personal Finance Tracker** `[Web]` — Log income/expenses with charts and category breakdowns, backed by a real DB. *Flask/Django + SQLite*
+2. **Blogging Platform (CRUD)** `[Web]` — Write, edit, publish, and delete posts with a proper backend. *Django or Node/Express*
+3. **E-commerce Catalog + Cart** `[Web]` — Product listing, filtering, and a working cart (no real payments needed). *MERN stack*
+4. **Real-Time Chat App** `[Web]` — Multi-user chat rooms with live message delivery. *Node + Socket.io*
+5. **Movie Recommender (content-based)** `[ML]` — Suggest similar movies using genre/description similarity. *Python + Pandas + scikit-learn*
+6. **Student Management System** `[Web]` — CRUD for students, courses, grades with role-based views. *Java/Python + MySQL*
+7. **URL Shortener (persistent + analytics)** `[Web]` — Store links in a DB and track click counts over time. *Flask/Node + DB*
+8. **Portfolio Site with CMS** `[Web]` — Editable portfolio backed by a content layer instead of hardcoded HTML. *Next.js*
+9. **Job Board Aggregator** `[Web/Scraping]` — Scrape and unify listings from a few sources into one searchable feed. *Python (BeautifulSoup) + Flask*
+10. **Real-Time Polling App** `[Web]` — Create polls and watch votes update live for all viewers. *Node + Socket.io*
+11. **Local Music Player** `[Desktop]` — Browse, queue, and play a local music library with a real UI. *Electron or React*
+12. **Habit Tracker with Charts** `[Web]` — Daily check-ins visualized as streaks and trend charts. *React + Chart.js*
+13. **Mini Social Feed** `[Web]` — Posts, likes, and comments with user accounts. *MERN stack*
+14. **Resume Builder** `[Web]` — Fill a form, get a formatted, exportable resume. *React*
+15. **Weather Dashboard with Forecasts** `[Web]` — Multi-day forecast with charts, not just current conditions. *React + Weather API*
+16. **Local Search Engine** `[Systems]` — Build an inverted index over a folder of documents and support keyword search. *Python*
+17. **Spam Email Classifier** `[ML]` — Train a classifier on labeled email data to flag spam. *Python + scikit-learn*
+18. **Sentiment Analysis Tool** `[ML/NLP]` — Classify tweets/reviews as positive/negative/neutral. *Python NLP libraries*
+19. **Sudoku Solver + Generator** `[Algorithms]` — Backtracking solver plus a puzzle generator with difficulty levels. *Python*
+20. **Maze Generator & Solver** `[Algorithms]` — Generate random mazes and visualize a pathfinding solve. *Python + Pygame*
+21. **Discord Bot** `[Bot]` — Moderation or utility bot with custom commands. *discord.py*
+22. **Telegram Bot** `[Bot]` — Reminder/utility bot users can message directly. *python-telegram-bot*
+23. **File Encryption/Decryption Tool** `[Security]` — Encrypt and decrypt files with a password using real cryptography. *Python (cryptography lib)*
+24. **Portfolio + Blog with Auth** `[Web]` — Personal site with login-gated admin editing. *Next.js + Supabase*
+25. **Inventory Management System** `[Web]` — Track stock levels, restocking, and low-stock alerts. *Django + PostgreSQL*
+26. **Basic Video Call App** `[Web]` — Peer-to-peer video calling between two browser tabs/users. *WebRTC + JS*
+27. **Kanban Board (Trello-lite)** `[Web]` — Drag-and-drop boards/cards with persistence. *React + Firebase*
+28. **Handwritten Digit Recognizer** `[ML]` — Classify MNIST digits with a trained neural net. *Python + TensorFlow/PyTorch*
+29. **Webcam Face Detection** `[CV]` — Real-time face detection on a live camera feed. *Python + OpenCV*
+30. **Toy Language Interpreter** `[Systems]` — Parse and execute a small custom scripting language. *Python*
+31. **REST API for a Library System** `[Backend]` — Full CRUD API with authentication and proper status codes. *FastAPI*
+32. **Stock Price Tracker with Alerts** `[Web]` — Watch tickers and notify on threshold price moves. *Python + market data API*
+33. **Multiplayer Tic Tac Toe (online)** `[Game]` — Two real users play against each other over the network. *Node + Socket.io*
