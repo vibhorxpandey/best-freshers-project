@@ -1,0 +1,38 @@
+# Easy — 34 Projects
+
+Weekend-sized builds. Goal: get comfortable with syntax, basic logic, and shipping something that runs end to end.
+
+1. **Number Guessing Game** `[CLI]` — Computer picks a random number; user guesses with higher/lower hints. *Python*
+2. **To-Do List App** `[CLI/GUI]` — Add, complete, and delete tasks, saved to a local file. *Python + Tkinter or JS*
+3. **Simple Calculator** `[GUI]` — Basic arithmetic with a clickable interface. *Python Tkinter or HTML/CSS/JS*
+4. **Unit Converter** `[CLI/Web]` — Convert length, weight, and temperature between units. *Python or JS*
+5. **BMI Calculator** `[Web]` — Take height/weight and return BMI with a category label. *HTML/CSS/JS*
+6. **Digital Clock** `[Web]` — Live-updating clock with a stylable face. *JS*
+7. **Rock Paper Scissors** `[CLI/Web]` — Classic game against the computer with a running score. *Python or JS*
+8. **Tic Tac Toe (2-player)** `[CLI]` — Console-based two-player game with win detection. *Python*
+9. **Personal Portfolio Site** `[Web]` — Static one-pager: about, projects, contact. *HTML/CSS*
+10. **QR Code Generator** `[CLI]` — Turn any text/URL into a downloadable QR code. *Python (qrcode lib)*
+11. **Password Generator** `[CLI/Web]` — Random secure passwords with adjustable length/symbols. *Python or JS*
+12. **Password Strength Checker** `[CLI/Web]` — Score a password and explain what's weak about it. *Python or JS*
+13. **Weather App** `[Web]` — Show current weather for a searched city using a public API. *JS or Python*
+14. **Currency Converter** `[Web]` — Convert between currencies using a live exchange-rate API. *JS or Python*
+15. **Simple Blog (static)** `[Web]` — Markdown posts rendered as static HTML pages. *HTML/CSS + Markdown*
+16. **Age Calculator** `[Web]` — Enter a birthdate, get exact age in years/months/days. *JS*
+17. **Countdown Timer** `[Web]` — Set a target date/event and count down live. *JS*
+18. **Random Quote Generator** `[Web]` — Fetch and display a random quote from an API, with a "new quote" button. *JS*
+19. **Expense Tracker (CLI)** `[CLI]` — Log expenses to a CSV and print monthly totals by category. *Python*
+20. **Contact Book** `[CLI]` — Add, search, edit, delete contacts saved locally. *Python*
+21. **Alarm Clock** `[CLI]` — Set a time and play a sound when it hits. *Python (playsound)*
+22. **Typing Speed Test** `[Web]` — Measure WPM and accuracy against a sample paragraph. *JS*
+23. **Markdown to HTML Converter** `[CLI]` — Parse a `.md` file and output clean HTML. *Python*
+24. **Rule-Based Chatbot** `[CLI]` — Pattern-matching responses to common questions (no ML). *Python*
+25. **Dice Roll Simulator** `[CLI/Web]` — Simulate rolling 1–6 dice with a visual result. *Python or JS*
+26. **Palindrome & Anagram Checker** `[CLI]` — Two small string-logic utilities in one tool. *Python*
+27. **Basic URL Shortener (in-memory)** `[Web]` — Generate short codes for URLs, no database needed yet. *Python Flask*
+28. **Hangman** `[CLI]` — Word-guessing game with limited wrong attempts. *Python*
+29. **Library Book Tracker** `[CLI]` — Track borrowed books and due dates locally. *Python*
+30. **Text Adventure Game** `[CLI]` — Branching-choice story navigated through text input. *Python*
+31. **Stopwatch** `[Web]` — Start/stop/lap timer with millisecond precision. *JS*
+32. **Grade Calculator** `[CLI/Web]` — Input scores and weights, output final grade/GPA. *Python or JS*
+33. **Rock-Paper-Scissors-Lizard-Spock** `[CLI]` — Extended version of RPS with 5 choices and win logic. *Python*
+34. **Notes App (local storage)** `[Web]` — Create/edit/delete notes that persist in the browser. *HTML/JS*
