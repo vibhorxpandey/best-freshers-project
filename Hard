@@ -1,0 +1,37 @@
+# Hard — 33 Projects
+
+Stretch projects: systems programming, distributed concepts, and deeper ML/AI. Not "first-week" builds — these are for once you've shipped a few things and want a portfolio piece that stands out.
+
+1. **Full-Stack Food Delivery Platform** `[Web]` — Multi-role app (customer/admin/delivery) with order tracking end to end. *Next.js + PostgreSQL*
+2. **Real-Time Collaborative Code Editor** `[Systems]` — Google-Docs-style live editing with conflict resolution. *React + WebSocket + CRDT (Yjs)*
+3. **Distributed Chat System** `[Systems]` — Chat backend that scales across nodes via a message queue. *Node/Go + Kafka or RabbitMQ*
+4. **Mini Database Engine** `[Systems]` — Parse a subset of SQL and implement your own storage/query engine. *C++/Rust*
+5. **Mini Compiler** `[Systems]` — Lexer, parser, and code generator for a small language. *C++ or Python*
+6. **Neural Network from Scratch** `[ML]` — Forward/backprop implemented with only NumPy, no frameworks. *Python + NumPy*
+7. **Object Detection System** `[ML/CV]` — Train/fine-tune a YOLO-family model on a custom dataset. *Python + PyTorch*
+8. **Recommendation Engine (collaborative filtering)** `[ML]` — Matrix factorization-based recommendations at scale. *Python*
+9. **Blockchain from Scratch** `[Systems]` — Proof-of-work consensus, blocks, and a basic wallet. *Python or Go*
+10. **Peer-to-Peer File Sharing App** `[Networking]` — Direct file transfer between peers over raw sockets. *Python*
+11. **Video Streaming Platform** `[Systems]` — Upload, transcode, and adaptively stream video. *Node + FFmpeg*
+12. **Real-Time Multiplayer Game (with physics)** `[Game]` — Networked game loop with server-authoritative physics. *Unity/Godot + networking*
+13. **Mini OS Shell** `[Systems]` — Command parsing, process execution, and piping, built close to the metal. *C*
+14. **Web Crawler + Search Engine with PageRank** `[Systems]` — Crawl, index, and rank pages from a seed set of URLs. *Python*
+15. **Voice Assistant** `[ML/Systems]` — Wake-word detection, intent parsing, and text-to-speech response. *Python*
+16. **Load Balancer / Reverse Proxy** `[Systems]` — Route traffic across backend instances with health checks. *Go*
+17. **Distributed Key-Value Store (Raft consensus)** `[Systems]` — Replicated, fault-tolerant storage with leader election. *Go*
+18. **AI Resume Screener** `[ML/NLP]` — Rank resumes against a job description using embeddings. *Python*
+19. **Full-Stack SaaS Starter** `[Web]` — Auth, subscriptions/billing, and multi-tenant data isolation. *Next.js + Stripe + PostgreSQL*
+20. **Real-Time Fraud Detection Pipeline** `[ML/Systems]` — Stream transactions through a live anomaly-scoring model. *Python + Kafka*
+21. **Mini Container Runtime** `[Systems]` — Process isolation using namespaces/cgroups, Docker-style. *Go or C*
+22. **Backtested Trading Bot** `[Finance/ML]` — Strategy backtesting engine plus a paper-trading execution loop. *Python*
+23. **Image Captioning Model** `[ML/CV]` — CNN encoder + RNN/Transformer decoder generating captions for images. *Python + PyTorch*
+24. **Fine-Tuned Speech-to-Text Engine** `[ML]` — Fine-tune an existing model (e.g. Whisper) on domain-specific audio. *Python*
+25. **Distributed Task Scheduler** `[Systems]` — Build a Celery-style job queue with workers and retries from scratch. *Python*
+26. **Video Conferencing App (SFU-based)** `[Systems]` — Multi-party video calls routed through a selective forwarding unit. *Node*
+27. **GraphQL API Gateway over Microservices** `[Backend]` — Single GraphQL entrypoint fanning out to multiple services. *Node or Go*
+28. **Custom Programming Language + VM** `[Systems]` — Design a language, compile to bytecode, and run it on your own VM. *Rust or C++*
+29. **Real-Time Collaborative Whiteboard** `[Systems]` — Shared drawing canvas synced across clients via CRDTs. *React + WebSocket*
+30. **Network Traffic Anomaly Detector** `[ML/Security]` — Flag suspicious network flows using statistical/ML methods. *Python*
+31. **Self-Hosted CI/CD Pipeline Tool** `[Systems]` — Trigger builds/tests/deploys from git pushes, Jenkins-lite. *Go or Python*
+32. **RAG-Based Document Q&A System** `[ML]` — Embed documents into a vector DB and answer questions grounded in them. *Python + FAISS or Qdrant*
+33. **Multiplayer Game Server with Matchmaking** `[Systems]` — Session management, matchmaking queue, and real-time game state sync. *Go or Node*
