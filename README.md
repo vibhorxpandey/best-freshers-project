@@ -1,4 +1,4 @@
-# 100 First-Year Projects for Freshers
+# 100 First-Year Projects for Freshers and 2nd year students
 
 A curated list of 100 project ideas for first year CS/engineering students — split into **Easy**, **Medium**, and **Hard** tiers so you can level up deliberately instead of guessing what to build next line i did in starting.
 
